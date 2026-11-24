@@ -1,0 +1,10 @@
+set 1- git commands
+git init
+git add .	
+git commit -m "message"	
+git log	
+git remote add origin URL	
+git push -u origin main	
+git revert HEAD	
+git reset --soft HEAD~1	
+git reset --hard HEAD~1
